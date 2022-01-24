@@ -29,9 +29,6 @@ class Solution {
             }
             else
             {
-                // if(nums[mid]>nums[mid-1])
-                //     return mid;
-                // else return mid-1;
                 return mid;
             }
           }
